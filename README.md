@@ -30,7 +30,7 @@
 
 <h1 align="center">Daftar Bahasa</h1>
 
-## HTML & CSS <a href='https://progate.com/courses/html'><img src='README/HTML.svg' align="right" height="80"/></a> [[📂]()] [[🔍](https://progate.com/courses/html)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/0efd23d0b98c48028c2eac92db8c1e7ccourse_certificate_0cbd1611qsgn3h.pdf)]
+## HTML & CSS <a href='https://progate.com/courses/html'><img src='README/HTML.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/html)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/0efd23d0b98c48028c2eac92db8c1e7ccourse_certificate_0cbd1611qsgn3h.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
