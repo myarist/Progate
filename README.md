@@ -157,6 +157,12 @@
 
 </details>
 
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
+
+</details>
+
 
 
 ## PHP <a href='https://progate.com/courses/php'><img src='README/PHP.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/php)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/d4733852f6d5ff6f0783afa3a52d4dbbcourse_certificate_9e566549qshwo0.pdf)]
@@ -339,6 +345,12 @@
 
 </details>
 
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
+
+</details>
+
 
 
 ## Node.js <a href='https://progate.com/courses/nodejs'><img src='README/Nodejs.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/nodejs)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/720a5ad25dfeafa7182d7254d73e8233course_certificate_c62e6a52qshe68.pdf)]
@@ -386,6 +398,12 @@
 - Mengedit Item Daftar
 
 </details>
+
+</details>
+
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
 
 </details>
 
@@ -450,6 +468,12 @@
 - Tantangan
 
 </details>
+
+</details>
+
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
 
 </details>
 
@@ -522,6 +546,12 @@
 - Class Date dan Method Class
 
 </details>
+
+</details>
+
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
 
 </details>
 
@@ -662,6 +692,12 @@
 
 </details>
 
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
+
+</details>
+
 
 
 ## SQL <a href='https://progate.com/courses/sql'><img src='README/SQL.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/sql)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/aabd3b48e1066a27079323480e821343course_certificate_b443356cqsh3p6.pdf)]
@@ -760,6 +796,12 @@
 
 </details>
 
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
+
+</details>
+
 
 
 ## Command Line <a href='https://progate.com/courses/commandline'><img src='README/Command.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/commandline)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/ca71576e438df01226b0a9a0ca2ee29fcourse_certificate_5a4e6730qrwitf.pdf)]
@@ -777,5 +819,11 @@
 - Mengelola File dan Folder
 
 </details>
+
+</details>
+
+<details><summary>Daftar Latihan</summary>
+
+Belum Ada
 
 </details>
