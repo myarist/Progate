@@ -1,0 +1,69 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  /* Hapuskan CSS background-color */
+  
+  /* Hapuskan CSS height */
+  
+  /* Gantikan padding atas & bawah ke 100px, dan padding kiri & kanan ke 80px */
+  padding: 100px 80px;
+  
+}
+
+/* Gantikan font-size tag <h1> didalam copy-container */
+.copy-container h1 {
+  font-size: 140px;
+}
+
+/* Gantikan font-size tag <h2> didalam copy-container */
+.copy-container h2 {
+  font-size: 60px;
+}
+
+/* Gantikan color tags <span> didalam copy-container */
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}

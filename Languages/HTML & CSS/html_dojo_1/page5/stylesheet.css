@@ -1,0 +1,137 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: left;
+  /* Ubahlah padding atas & bawah ke 33px, dan padding kiri & kana ke 20px */
+  padding: 33px 20px;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  /* Ubahlah padding atas & bawah ke 20px, dan padding kiri & kana ke 40px */
+  padding: 20px 40px;
+}
+
+.main {
+  /*background-color: #bdf7f1;*/
+  /*height: 600px;*/
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
+
+.main {
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-size: 140px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  height: 500px;
+  /* Gantikan property margin-top ke 100px */
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  /* Gantikan font-size ke 28px */
+  font-size: 28px;
+  
+  /* Gantikan property padding-bottom ke 15px */
+  padding-bottom: 15px;
+  
+  /* Gantikan property margin-bottom ke 50px */
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: left;
+  /* Gantikan margin-right ke 40px */
+  margin-right: 40px;
+}
+
+/* Gantikan font-size dan margin-top tag <p> yang didalam contents-item */
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+
+/* Tambahkan CSS untuk tags <input> dan <textarea> */
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+/* Tambahkan CSS untuk contact-submit */
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}

@@ -1,0 +1,33 @@
+.main {
+  margin: 20px;
+  text-align: center;
+
+  h3 {
+    margin-bottom: 15px;
+    color: #555;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 8px 24px;
+    color: white;
+    opacity: 0.8;
+    border-radius: 4px;
+    background-color: #f778b8;
+    cursor: pointer;
+    box-shadow: 0 5px #e04893;
+
+    // Tambahkan code untuk ketika kursor berada diatas element dengan class .button 
+    &:hover {
+      opacity: 1;
+    }
+    
+    // Tambahkan code untuk ketika element dengan class .button diklik
+    &:active {
+      position: relative;
+      top: 7px;
+      box-shadow: none;
+    }
+    
+  }
+}

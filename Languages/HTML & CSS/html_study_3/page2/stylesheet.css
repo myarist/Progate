@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px) {
+/* Gantikan warna <h1> ke blue */
+  h1 {
+    color: blue;
+  }
+}
+
+/* Tambahkan breakpoint max-width: 670px */
+@media (max-width: 670px) {
+/* Gantikan warna <h1> ke green */
+  h1 {
+    color: green;
+  }
+}

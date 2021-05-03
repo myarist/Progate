@@ -1,0 +1,22 @@
+h1 {
+  color: #e6855e;
+  font-size: 30px;
+  /* Gantikan background-color ke #f3f372 */
+  background-color: #f3f372;
+  
+  /* Gantikan height ke 80px */
+  height: 80px;
+  
+  /* Gantikan width ke 200px */
+  width: 200px;
+  
+}
+
+img {
+  /* Gantikan height ke 50px */
+  height: 50px;
+  
+  /* Gantikan width ke 70px */
+  width: 70px;
+  
+}

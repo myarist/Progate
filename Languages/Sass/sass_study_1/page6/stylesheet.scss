@@ -1,0 +1,35 @@
+// Tambahkan argument $color  
+@mixin circle($color) {
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 10px;
+  text-align: center;
+  // Gunakan argument $color untuk mengubah warna latar
+  background-color: $color;
+}
+
+.main {
+  margin: 20px 10px;
+  color: #ffffff;
+  
+  .small {
+    // Tambahkan nilai #20efae sebagai argument
+    @include circle(#20efae);
+    width: 34px;
+    height: 34px;
+  }
+  
+  .medium {
+    // Tambahkan nilai #61cbff sebagai argument
+    @include circle(61cbff);
+    width: 62px;
+    height: 62px;
+  }
+  
+  .large {
+    // Tambahkan nilai #a070f7 sebagai argument
+    @include circle(a070f7);
+    width: 90px;
+    height: 90px;
+  }
+}

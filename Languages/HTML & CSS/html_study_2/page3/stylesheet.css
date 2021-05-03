@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Tambahkan CSS untuk container */
+.container {
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Tambahkan CSS untuk top-wrapper */
+.top-wrapper {
+  padding-top: 180px;
+  padding-bottom: 100px;
+  color: white;
+  background-image:url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+}
+

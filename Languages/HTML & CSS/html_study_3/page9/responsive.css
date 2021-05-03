@@ -1,0 +1,35 @@
+/* Untuk Tablet */
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* Untuk Smartphone */
+@media (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  /* Gantikan width btn ke 100% */
+  .btn {
+    width: 100%;
+  }
+  
+  /* Gantikan margin-bottom facebook ke 10px */
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  /* Tambahkan CSS untuk top-wrapper */
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
+  
+}

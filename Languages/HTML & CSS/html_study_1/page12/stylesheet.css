@@ -1,0 +1,21 @@
+body {
+  font-family: "Avenir Next";
+}
+
+/* Gantikan background-color header ke #f7f2b4, dan height ke 90px */
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+/* Gantikan background-color main ke #bdf7f1, dan height ke 600px */
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+/* Gantikan background-color footer ke #ceccf3, dan height ke 270px */
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}

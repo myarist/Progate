@@ -1,0 +1,23 @@
+.main {
+  margin: 20px;
+  
+  .title {
+    margin-bottom: 10px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #888;
+    color: #555;
+  }
+  
+  li {
+    list-style: decimal;
+    margin-left: 22px;
+    color: #b5afaf;
+    line-height: 26px;
+    
+    // Tambahkan code untuk class current-page 
+    &.current-page {
+      color:#f74c90;
+    }
+    
+  }
+}

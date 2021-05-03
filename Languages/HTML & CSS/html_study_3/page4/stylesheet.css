@@ -1,0 +1,51 @@
+/* Terapkan box-sizing: border-box; kesemua element */
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 20px;
+}
+
+.item {
+  width: 25%;
+  float: left;
+  /* Ubah padding kiri & kanan ke 15px*/
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.item-box {
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.green {
+  background-color: #11D8B3;
+}
+
+.yellow {
+  background-color: #FFD466;
+}
+
+.red {
+  background-color: #ED456D;
+}
+
+.blue {
+  background-color: #3D7DD8;
+}
+
+/* Untuk Tablet */
+@media (max-width: 1000px) {
+  .item {
+    width: 50%;
+  }
+}
+
+/* Untuk Smartphone */
+@media (max-width: 670px) {
+  .item {
+    width: 100%;
+  }
+}

@@ -1,0 +1,42 @@
+$blue: #0ac4ff;
+$pink: #fd6eb6;
+
+.main {
+  margin: 10px;
+  
+  li {
+    list-style: none;
+    float: left;
+    height: 100px;
+    width: 33%;
+    margin-bottom: 10px;
+  }
+  
+  .blue1 {
+    background-color: $blue;
+  }
+  
+  .blue2 {
+    // Gunakan function darken dengan warna $blue dan nilai 10%
+    background-color: darken($blue, 10%);
+  }
+  
+  .blue3 {
+    // Gunakan function darken dengan warna $blue dan nilai 20%
+    background-color: darken($blue, 20%);
+  }
+  
+  .pink1 {
+    background-color: $pink;
+  }
+  
+  .pink2 {
+    // Gunakan function lighten dengan warna $pink dan nilai 10%
+    background-color: lighten($pink, 10%);
+  }
+  
+  .pink3 {
+    // Gunakan function lighten dengan warna $pink dan nilai 20%
+    background-color: lighten($pink, 20%);
+  }
+}

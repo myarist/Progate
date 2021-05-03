@@ -1,0 +1,36 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  /* Pindahkan kedua baris dibawah kesekitar baris 25 */
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+/* Tambahkan CSS tag <li> yang diatas kedalam header-list */
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}

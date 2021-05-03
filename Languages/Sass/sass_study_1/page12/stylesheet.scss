@@ -1,0 +1,58 @@
+/* Tambahkan argument ke @mixin card */
+@mixin card($color) {
+  padding: 40px 28px;
+	margin: 16px 8px;
+	display: inline-block;
+	border-radius: 3px;
+	/* Ubah nilai background-color */
+	background-color: $color;
+	img {
+		margin: 16px auto 20px;
+		display: block;
+	}
+}
+
+body {   
+  min-width: 460px;
+	text-align: center;
+	font-family: "Hiragino Kaku Gothic ProN";
+	background-color: #f0f5fc;
+}
+
+header {
+	width: 100%;
+	padding: 10px 0;
+	display: inline-block;
+	background-color: #7579a3;
+	color: #ffffff;
+	font-size: 14px;
+	text-align: center;
+}
+
+.profile {
+	padding: 56px 0;
+	margin: 0 auto 32px;
+	background-color: #ffffff;
+	.info {
+		margin-top: 16px;
+		p {
+			color: #2b546a;
+		}
+	}
+}
+
+/* Tambahkan argument ke @include card */
+.html {
+  @include card(#1bd7cf);
+}
+/* Tambahkan argument ke @include card */
+.javascript {
+  @include card(#ffe400);
+}
+
+footer {
+	margin: 100px 0 32px;
+	color: #2b546a;
+	font-size: 14px;
+	text-align: center;
+}

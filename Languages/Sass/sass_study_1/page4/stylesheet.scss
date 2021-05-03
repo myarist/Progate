@@ -1,0 +1,32 @@
+// Tambahkan variable $ninja-color disini
+$ninja-color: #7579a3;
+
+.main {
+  margin: 20px;
+  border-radius: 5px;
+
+  .title {
+    font-size: 32px;
+    margin-bottom: 5px;
+    // Gantikan nilai warna teks dengan variable $ninja-color 
+    color: $ninja-color;
+    
+  }
+
+  .description {
+    color: #5f6977;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    // Gantikan nilai warna latar belakang dengan variable $ninja-color 
+    background-color:$ninja-color;
+    
+    display: inline-block;
+    color: #ffffff;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}

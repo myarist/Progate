@@ -1,0 +1,38 @@
+// Tambahkan mixin bernama "circle"
+@mixin circle {
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: 10px;
+  text-align: center;
+  background-color: #888888;
+}
+
+
+.main {
+  margin: 20px 10px;
+  color: #ffffff;
+  
+  .small {
+    // Gunakan mixin circle disini
+    @include circle;
+    
+    width: 34px;
+    height: 34px;
+  }
+  
+  .medium {
+    // Gunakan mixin circle disini
+    @include circle;
+    
+    width: 62px;
+    height: 62px;
+  }
+  
+  .large {
+    // Gunakan mixin circle disini
+  @include circle;
+    
+    width: 90px;
+    height: 90px;
+  }
+}

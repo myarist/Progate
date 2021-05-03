@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>LIST</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/send_url.js"></script>
+  </head>
+  <body>
+    <div class="top-wrapper">
+      <div class="top-detail">
+        <h2 class="subtitle">A Shopping List App</h2>
+        <h1 class="title">LIST</h1>
+        <p class="description">
+          LIST lets you create and manage your shopping list easily.
+          <br>
+          Add items you want anytime, anywhere.
+        </p>
+        <a href="/index" class="index-button">View your list</a>
+      </div>
+      <div class="top-image">
+        <img src="/images/top.png">
+      </div>
+    </div>
+  </body>
+</html>

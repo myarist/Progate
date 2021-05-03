@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <header>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>BELAJAR CODING.</h1>
+        <h1>BELAJAR MENJADI LEBIH KREATIF.</h1>
+        <p>Progate adalah platform online untuk belajar coding.</p>
+        <p>Kami menawarkan lingkungan pemograman yang lengkap untuk mempermudah Anda memulai.</p>
+        <div class="btn-wrapper">
+          <a href="#" class="btn signup">Daftar dengan Email</a>
+          <p>atau</p>
+          <a href="#" class="btn facebook">Daftar dengan Facebook</a>
+          <a href="#" class="btn twitter">Daftar dengan Twitter</a>
+        </div>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+    </div>
+    <div class="message-wrapper">
+    </div>
+    <footer>
+    </footer>
+  </body>
+</html>

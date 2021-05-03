@@ -1,0 +1,54 @@
+/* Untuk Tablets */
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  /* Tambahkan CSS untuk tag <h1> didalam top-wrapper */
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  /* Tambahkan CSS untuk tag <h2> didalam heading */
+  .heading h2 {
+    font-size: 20px;
+  }
+
+}
+
+/* Untuk Smartphones */
+@media (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  /* Tambahkan CSS untuk tag <h1> didalam top-wrapper */
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  /* Tambahkan CSS untuk tag <p> didalam top-wrapper */
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+}

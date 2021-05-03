@@ -1,0 +1,64 @@
+html {
+  font: 100% / 1.5 "Lato", "Hiragino Maru Gothic Pro", "Meiryo UI", Meiryo, "MS PGothic", sans-serif;
+  background: #f9fbfe;
+}
+
+h1, h2, h3, h4, h5, h6, p, div {
+   color: #2b546a;
+   font-weight: normal;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding-top: 40px;
+  text-align:center;
+}
+
+p {
+  text-align:center;
+}
+
+.language {
+  height: 400px;
+  width: 810px;
+  padding: 0 70px;
+  margin: auto;
+}
+
+.language-item {
+  width: 240px;
+  height: 250px;
+  background: #ffffff;
+  margin: 15px;
+  float: left;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+  border-radius: 3px;
+  position: relative;
+}
+
+.language-name {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 40px;
+  margin: auto;
+  text-align: center;
+}
+
+.language-image {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 40px;
+  margin: auto;
+  height: auto;
+  width: 60%;
+}

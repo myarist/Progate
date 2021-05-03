@@ -1,0 +1,22 @@
+/* Untuk Tablets */
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* Untuk Smartphones */
+
+/* Tambahkan breakpoint max-width: 670px */
+@media (max-width: 670px) {
+  /* Ubah width milik lesson ke 100% */
+  .lesson {
+    width: 100%;
+  }
+  
+  /* Ubah text-align property milik <footer> */
+  footer {
+    text-align: center;
+  }
+}
