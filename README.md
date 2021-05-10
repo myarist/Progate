@@ -30,7 +30,7 @@
 
 <h1 align="center">Daftar Bahasa</h1>
 
-## HTML & CSS <a href='https://progate.com/courses/html'><img src='README/HTML.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/html)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/0efd23d0b98c48028c2eac92db8c1e7ccourse_certificate_0cbd1611qsgn3h.pdf)]
+## HTML & CSS <a href='https://progate.com/courses/html'><img src='README/HTML.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/HTML%20%26%20CSS)] [[🔍](https://progate.com/courses/html)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/0efd23d0b98c48028c2eac92db8c1e7ccourse_certificate_0cbd1611qsgn3h.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -141,7 +141,7 @@
 
 
 
-## Sass <a href='https://progate.com/courses/sass'><img src='README/Sass.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/sass)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/7fb8f814c524b0ace63dbf6e9028c2eccourse_certificate_916987b4qshxj7.pdf)]
+## Sass <a href='https://progate.com/courses/sass'><img src='README/Sass.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Sass)] [[🔍](https://progate.com/courses/sass)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/7fb8f814c524b0ace63dbf6e9028c2eccourse_certificate_916987b4qshxj7.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -165,7 +165,7 @@ Belum Ada
 
 
 
-## PHP <a href='https://progate.com/courses/php'><img src='README/PHP.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/php)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/d4733852f6d5ff6f0783afa3a52d4dbbcourse_certificate_9e566549qshwo0.pdf)]
+## PHP <a href='https://progate.com/courses/php'><img src='README/PHP.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/PHP)] [[🔍](https://progate.com/courses/php)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/d4733852f6d5ff6f0783afa3a52d4dbbcourse_certificate_9e566549qshwo0.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -267,7 +267,7 @@ Belum Ada
 
 
 
-## JavaScript <a href='https://progate.com/courses/es6'><img src='README/JavaScript.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/es6)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/fcbf6033a66096c762a3c0f3a935c8b1course_certificate_75f2a21dqsgufh.pdf)]
+## JavaScript <a href='https://progate.com/courses/es6'><img src='README/JavaScript.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Javascript)] [[🔍](https://progate.com/courses/es6)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/fcbf6033a66096c762a3c0f3a935c8b1course_certificate_75f2a21dqsgufh.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -353,7 +353,7 @@ Belum Ada
 
 
 
-## Node.js <a href='https://progate.com/courses/nodejs'><img src='README/Nodejs.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/nodejs)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/720a5ad25dfeafa7182d7254d73e8233course_certificate_c62e6a52qshe68.pdf)]
+## Node.js <a href='https://progate.com/courses/nodejs'><img src='README/Nodejs.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Node%20js)] [[🔍](https://progate.com/courses/nodejs)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/720a5ad25dfeafa7182d7254d73e8233course_certificate_c62e6a52qshe68.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -409,7 +409,7 @@ Belum Ada
 
 
 
-## React <a href='https://progate.com/courses/react'><img src='README/React.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/react)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/f3138346f00fdb841b52426275dadd77course_certificate_a5888d78qsifbs.pdf)]
+## React <a href='https://progate.com/courses/react'><img src='README/React.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/React)] [[🔍](https://progate.com/courses/react)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/f3138346f00fdb841b52426275dadd77course_certificate_a5888d78qsifbs.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -479,7 +479,7 @@ Belum Ada
 
 
 
-## Ruby <a href='https://progate.com/courses/ruby'><img src='README/Ruby.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/ruby)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/661279061e5d3244c965ee83b4e9994dcourse_certificate_70ead779qsimd8.pdf)]
+## Ruby <a href='https://progate.com/courses/ruby'><img src='README/Ruby.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Ruby)] [[🔍](https://progate.com/courses/ruby)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/661279061e5d3244c965ee83b4e9994dcourse_certificate_70ead779qsimd8.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -557,7 +557,7 @@ Belum Ada
 
 
 
-## Java <a href='https://progate.com/courses/java'><img src='README/Java.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/java)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/e6a854c54475b1ee3272dc9ef2371458course_certificate_6e0feda3qsicnr.pdf)]
+## Java <a href='https://progate.com/courses/java'><img src='README/Java.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Java)] [[🔍](https://progate.com/courses/java)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/e6a854c54475b1ee3272dc9ef2371458course_certificate_6e0feda3qsicnr.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -622,7 +622,7 @@ Belum Ada
 
 
 
-## Python <a href='https://progate.com/courses/python'><img src='README/Python.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/python)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/4be6709c5dc5bfa7d9422ee1dd439629course_certificate_b82fc200qrwnx3.pdf)]
+## Python <a href='https://progate.com/courses/python'><img src='README/Python.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Python)] [[🔍](https://progate.com/courses/python)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/4be6709c5dc5bfa7d9422ee1dd439629course_certificate_b82fc200qrwnx3.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -700,7 +700,7 @@ Belum Ada
 
 
 
-## SQL <a href='https://progate.com/courses/sql'><img src='README/SQL.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/sql)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/aabd3b48e1066a27079323480e821343course_certificate_b443356cqsh3p6.pdf)]
+## SQL <a href='https://progate.com/courses/sql'><img src='README/SQL.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/SQL)] [[🔍](https://progate.com/courses/sql)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/aabd3b48e1066a27079323480e821343course_certificate_b443356cqsh3p6.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -780,7 +780,7 @@ Belum Ada
 
 
 
-## Git <a href='https://progate.com/courses/git'><img src='README/Git.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/git)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/f497288f1d48b7f9a9a02ed7c10eadd4course_certificate_6a84ce87qrwgww.pdf)]
+## Git <a href='https://progate.com/courses/git'><img src='README/Git.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Git)] [[🔍](https://progate.com/courses/git)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/f497288f1d48b7f9a9a02ed7c10eadd4course_certificate_6a84ce87qrwgww.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
@@ -804,7 +804,7 @@ Belum Ada
 
 
 
-## Command Line <a href='https://progate.com/courses/commandline'><img src='README/Command.svg' align="right" height="100"/></a> [[📂]()] [[🔍](https://progate.com/courses/commandline)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/ca71576e438df01226b0a9a0ca2ee29fcourse_certificate_5a4e6730qrwitf.pdf)]
+## Command Line <a href='https://progate.com/courses/commandline'><img src='README/Command.svg' align="right" height="100"/></a> [[📂](https://github.com/myarist/Progate/tree/main/Languages/Command%20Line)] [[🔍](https://progate.com/courses/commandline)] [[📃](https://d2w8fsc1wkigu3.cloudfront.net/1600859/4e5c1753554afc72d8590a19d677f977/certificates/courses/ca71576e438df01226b0a9a0ca2ee29fcourse_certificate_5a4e6730qrwitf.pdf)]
 
 <details><summary>Daftar Bab</summary>
 
